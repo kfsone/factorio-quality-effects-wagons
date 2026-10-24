@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 24.10.2026
+  Changes:
+    - Factorio 2.1 compatibility fork: bumped factorio_version and dependencies to 2.1, no code changes needed
+    - note: 2.1 itself makes the vanilla cargo and fluid wagons scale with quality, this mod still applies it to modded wagons
+---------------------------------------------------------------------------------------------------
 Version: 1.0.1
 Date: 06.01.2025
   Changes:
