@@ -1,11 +1,11 @@
 {
-  "name": "Wagon-quality-size",
-  "version": "1.0.2",
+  "name": "Wagon-quality-size-Unofficial-2-1Fix",
+  "version": "1.0.3",
   "factorio_version": "2.1",
-  "title": "Wagon Quality Size",
+  "title": "Wagon Quality Size (Unofficial 2.1 Fix)",
   "author": "zanven",
   "contact": "",
-  "homepage": "https://github.com/AnthonyPoschen/factorio-quality-effects-wagons.git",
-  "description": "Item and Fluid Wagons stack size / capacity is now effected by quality",
-  "dependencies": ["base >= 2.1.0", "? quality >= 2.1.0"]
+  "homepage": "https://mods.factorio.com/mod/Wagon-quality-size",
+  "description": "Item and Fluid Wagons stack size / capacity is now effected by quality. Original mod by zanven (https://mods.factorio.com/mod/Wagon-quality-size, source https://github.com/AnthonyPoschen/factorio-quality-effects-wagons); 2.1 fix by kfsone (https://github.com/kfsone/factorio-quality-effects-wagons). Replaces the original: disable/remove Wagon-quality-size when using this.",
+  "dependencies": ["base >= 2.1.0", "? quality >= 2.1.0", "!Wagon-quality-size"]
 }

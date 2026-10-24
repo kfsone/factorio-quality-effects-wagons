@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.3
+Date: 24.10.2026
+  Changes:
+    - Renamed to Wagon-quality-size-Unofficial-2-1Fix so it can be published alongside the original mod (unofficial release)
+    - No prototype, setting or save-affecting changes: the mod is data-only and has no script state
+    - Declared incompatible with the original Wagon-quality-size (they do the same thing)
+---------------------------------------------------------------------------------------------------
 Version: 1.0.2
 Date: 24.10.2026
   Changes:
